@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">val</string>
+    <string name="login"> Login</string>
+    <string name="first">Username</string>
+    <string name="second">Password</string>
+    <string name="third">Incorrect password</string>
+    <string name="fourth">Khavayi</string>
+    <string name="fifth">First time here? Sign up</string>
+    <string name="coffee">Coffee</string>
+    <string name="sweet">Sweet</string>
+    <string name="food">Food</string>
+    <string name="drink">Drink</string>
+    <string name="nothn">Vainess</string>
+    <string name="eighth">Vainess</string>
+
+
+</resources>

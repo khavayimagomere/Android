@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ScoreKeeperApp</string>
+    <string name="teamA">bilibili gaming</string>
+    <string name="teamB">vc gaming</string>
+    <string name="addthree">+3points</string>
+    <string name="addtwo">+2points</string>
+    <string name="free">Freeshot</string>
+    <string name="reset">reset</string>
+    <string name="scoreA">0</string>
+    <string name="scoreB">0</string>
+
+
+
+
+
+
+</resources>

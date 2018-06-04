@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Val_Cafe</string>
+    <string name="first">Choose a size </string>
+    <string name="second">latte machiato</string>
+    <string name="third">Quantity</string>
+    <string name="fourth">Price</string>
+    <string name="fifth">Order</string>
+    <string name="sixth">0</string>
+    <string name="seventh">$0.00</string>
+    <string name="eighth">+</string>
+    <string name="ninth">-</string>
+    <string name="cream">Whipped Cream</string>
+    <string name="Chocolate"> Chocolate</string>
+    <string name="vanilla"> Vanilla</string>
+
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="background">#3a404e</color>
+    <color name="black">#000</color>
+    <color name="purple">#ab47bc</color>
+    <color name="password">#ff4d7d</color>
+    <color name="white">#ffffff</color>
+    <color name="Button">#21242d</color>
+    <color name="form">#686b7a</color>
+    <color name="signup">#bec1ca</color>
+    <color name="lines">#031919</color>
+    <color name="coffee">#51adce</color>
+    <color name="sweet">#477ab0</color>
+    <color name="food">#595089</color>
+    <color name="drink">#553f68</color>
+</resources>
